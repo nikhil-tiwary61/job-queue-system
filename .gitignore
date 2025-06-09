@@ -23,10 +23,18 @@ profile.cov
 # Go workspace file
 go.work
 go.work.sum
+go.sum
 
 # env file
 .env
 
+# Logs
+*.log
+.DS_Store
+
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# Docker
+*.tar
